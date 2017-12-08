@@ -1,0 +1,14 @@
+New line without text
+---------------------
+
+You have to use \\ (1+n) times where n defines the lines you want.
+
+
+Example:
+
+Lorem Ipsum\\
+\\
+\\
+
+
+Gives 2 lines
