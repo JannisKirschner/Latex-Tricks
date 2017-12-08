@@ -1,0 +1,18 @@
+These are the tags for various copyrights:
+
+\textsuperscript{\textregistered}
+\textsuperscript{\textcopyright}
+\texttrademark
+
+
+Also you can define a shortcut:
+
+% Registered definieren
+\def\SymbReg{\textsuperscript{\textregistered}}
+ 
+\begin{document}
+   % Registered-Zeichen erstellen
+   \SymbReg
+\end{document}
+
+Source: http://blog.mixable.de/latex-trademark-copyright-registered/
