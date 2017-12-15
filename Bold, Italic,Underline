@@ -1,0 +1,10 @@
+Bold,Italic,Underline
+---------------------
+
+
+Some of the \textbf{greatest} 
+discoveries in \underline{science} 
+were made by \textbf{\textit{accident}}.
+
+
+Soure: https://de.sharelatex.com/learn/bold,_italics_and_underlining
